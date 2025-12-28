@@ -80,6 +80,8 @@ A custom 3-quest adventure chain for Low Magic Age's grid-based world map mode, 
 
 - **[INSTALLATION.md](INSTALLATION.md)** - Complete installation guide
 - **[DELASTONE_ADVENTURE_README.md](DELASTONE_ADVENTURE_README.md)** - Quest details, lore, and troubleshooting
+- **[STATUS.md](STATUS.md)** - Current features, limitations, and roadmap
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - How to contribute to the project
 - **[LICENSE](LICENSE)** - MIT License
 
 ---
