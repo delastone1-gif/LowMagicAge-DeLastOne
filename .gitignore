@@ -1,0 +1,51 @@
+# Low Magic Age - DeLastOne Mod .gitignore
+
+# Only track mod files, not the entire game
+/*
+!/README.md
+!/INSTALLATION.md
+!/DELASTONE_ADVENTURE_README.md
+!/LICENSE
+!/.gitignore
+
+# Track mod directories
+!/data/
+/data/*
+!/data/advt_data.lua
+
+!/text/
+/text/*
+!/text/en/
+/text/en/*
+!/text/en/story_text.lua
+
+!/wlds/
+/wlds/*
+!/wlds/wld_1_sites.txt
+
+!/screenshots/
+!/screenshots/*.png
+
+# Ignore game executables and binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore save files
+/saves/
+/save_backup/
+
+# Ignore logs
+*.log
+*.txt.bak
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.sublime-*
